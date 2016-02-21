@@ -1,0 +1,13 @@
+{
+    "name": "alanaktion/gh-wiki",
+    "require": {
+        "bcosca/fatfree": "^3.5",
+        "erusev/parsedown": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "Alan Hardman",
+            "email": "alanaktion@gmail.com"
+        }
+    ]
+}
